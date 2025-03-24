@@ -1,5 +1,5 @@
 
-#Key Features of Sonify
+##Key Features of Sonify
 
 Modern UI with Purple & Black Theme: The app features a sleek, dark interface with purple accents for a premium music streaming experience.
 Interactive Music Player: A fully-featured player with play/pause, skip controls, volume adjustment, and a progress bar.
